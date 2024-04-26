@@ -4,5 +4,7 @@ class variables {
         int age;
 
         age = 23;
+
+        System.out.println("I am " + age + " years old.");
     }
 }
